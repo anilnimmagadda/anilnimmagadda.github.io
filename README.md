@@ -20,7 +20,7 @@ Check out my GitHub Pages site: [anilnimmagadda.github.io](https://anilnimmagadd
 
 ## 📫 Connect
 - GitHub: [@anilnimmagadda](https://github.com/anilnimmagadda)
-- Email: anil@example.com *(replace with actual address)*
+- Email: anil.github@proton.me
 
 ---
 > "Craft with clarity. Think across time. Build for legacy."
